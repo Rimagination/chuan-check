@@ -1,6 +1,10 @@
 ![Chuan Check project banner](assets/chuan-check-banner.png)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <img src="https://img.shields.io/badge/Type-Codex%20Skill-6f42c1.svg" alt="Type: Codex Skill">
+  <img src="https://img.shields.io/badge/Method-Evidence--first-159957.svg" alt="Method: Evidence-first">
+</p>
 
 # Chuan Check
 
