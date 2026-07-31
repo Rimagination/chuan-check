@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chuan Check"
+  short_description: "从论文硬伤追查至作者网络和出版流程的证据化调查方法"
+  default_prompt: "使用 $chuan-check 深入调查这篇论文，并整理成可核查的中文学术诚信调查报告。"
