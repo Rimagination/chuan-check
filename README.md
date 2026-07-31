@@ -1,3 +1,7 @@
+![Chuan Check project banner](assets/chuan-check-banner.png)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # Chuan Check
 
 Chuan Check 是一个面向论文与学术出版物的证据优先审查 skill。它从论文原文、表格、图像、公式和参考文献出发，逐项记录可复核事实，并沿作者身份、机构经历、合作网络、引用关系、期刊出版流程和官方后续记录扩展筛查范围。
